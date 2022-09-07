@@ -6,7 +6,7 @@ public class MyClass {
         Scanner in = new Scanner(System.in);
         a = in.nextInt();
         b = in.nextInt();
-        c = a + b;
+        c = 2*a + b;
         System.out.println(c);
     }
 }
